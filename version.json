@@ -5,7 +5,7 @@
 	  "version": "1.0.0",
 	  "buildtime": "202408261743",
       "release_date": "2023-01-01",
-      "release_notes": "Initial release."
+      "release_notes": "Initial release.",
 	  "latest": "No"
     },
     {
@@ -21,4 +21,6 @@
 	{
 		"device_sn": "LUXSHARE001",
 		"target_version": "1.1.0"
+	}
+  ]
 }
