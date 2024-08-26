@@ -1,0 +1,24 @@
+{
+  "firmwares": [
+    {
+      "url": "https://<your-username>.github.io/<repo-name>/firmware_v1.0.0.bin",
+	  "version": "1.0.0",
+	  "buildtime": "202408261743",
+      "release_date": "2023-01-01",
+      "release_notes": "Initial release."
+	  "latest": "No"
+    },
+    {
+	  "url": "https://<your-username>.github.io/<repo-name>/firmware_v1.1.0.bin",
+      "version": "1.1.0",
+	  "buildtime": "202408261743",
+      "release_date": "2023-06-01",
+      "release_notes": "Bug fixes and performance improvements.",
+	  "latest": "Yes"
+    }
+  ],
+  "specific": [
+	{
+		"device_sn": "LUXSHARE001",
+		"target_version": "1.1.0"
+}
